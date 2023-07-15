@@ -2,7 +2,7 @@
     background-color: #28282d;
     color: rgba(255,255,255,0.7);
     border-top: 1px solid rgba(255,255,255,0.05);
-    padding-left: 25px;
+    padding-top: 25px;
     cursor: pointer;
     position: relative;
 }
@@ -28,7 +28,7 @@
     height: 4px;
     border-radius: 50%;
     background-color: rgba(255,255,255,0.5);
-    left: 10px;
+    top: 10px;
     top: 50%;
     margin-top: -2px;
 }
